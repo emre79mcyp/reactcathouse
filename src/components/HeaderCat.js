@@ -58,14 +58,14 @@ const Header = () => {
         </h1>
         <h2>hi, wrote this simple Web App for cat lovers. hope you like it.</h2>
         <hr></hr>
-        <h2>Author: Abel Choy</h2>
-        <h2>Contact: abelchoy@gmail.com</h2>
+        <h2>Author: Emre Ozgen</h2>
+        <h2>Contact: emre-ozgen@live.co.uk</h2>
         <p>Software: ReactJS REST-API</p>
         <p>Version: 1.0 Aug 2020</p>
         <p>Credit Images: api.thecatapi.com</p>
         <p>p/s:</p>
         <p>please contact me if you have any suggestions for this App.</p>
-        <p>Do you like to learn Reactjs Programming? please contact me.</p>
+
         <div>
           <button className="btn" onClick={() => setModalIsOpen(false)}>
             Close
